@@ -18,3 +18,9 @@ You can customize ReadMoreTextView with:
 android:layout_margin="12dp"
 ```
 for setting max lines
+
+## Screenshots
+
+![Screenshot_2019-07-30-17-39-05-785_com example readmoretextview](https://user-images.githubusercontent.com/38393694/62128607-66522500-b2f2-11e9-9d6a-f8edad180f7f.png)
+![Screenshot_2019-07-30-17-39-12-091_com example readmoretextview](https://user-images.githubusercontent.com/38393694/62128631-710cba00-b2f2-11e9-9504-11c3b3bc627f.png)
+
