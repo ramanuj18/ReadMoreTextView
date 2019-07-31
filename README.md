@@ -17,7 +17,7 @@ You can customize ReadMoreTextView with:
 ```xml
 android:layout_margin="12dp"
 ```
-for setting max lines.
+setting up max lines.
 
 ## Screenshots
 
